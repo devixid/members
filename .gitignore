@@ -1,0 +1,6 @@
+!.gitignore
+!.dockerignore
+!.npmignore
+node_modules/
+vendor/
+*.lock
