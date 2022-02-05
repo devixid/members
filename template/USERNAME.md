@@ -1,5 +1,9 @@
 # Hello {Your Name}
 
+{Your future goals}
+
+## About me
+
 {Your description}
 
 - 🔭 I’m currently {HERE}
@@ -9,6 +13,9 @@
 - 💬 Ask me about: {HERE}
 - ⚡ Fun fact: {HERE}
 - 📚 My Hobbies: {HERE}
+
+## Skills
+{HERE}
 
 ## How to reach me:
 - [Facebook]()
